@@ -1,0 +1,12 @@
+ab
+.*c
+
+cccccab
+c*ab
+
+ab
+.*
+
+cccccab
+c*ab
+
